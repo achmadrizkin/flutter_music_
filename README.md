@@ -36,4 +36,4 @@ i use my own API
 
 
 ## Video Preview
-
+https://dms.licdn.com/playlist/C4D05AQFgo3QaF91Lvw/mp4-720p-30fp-crf28/0/1634434723004?e=1634529600&v=beta&t=fbs3z5fPCJoE9c2Au80Uh0fMCfmzxSLI7Ey-hSLNAqk
