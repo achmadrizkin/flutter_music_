@@ -1,6 +1,7 @@
 # ✔️ Flutter Music App
 
 A Flutter app based on the design of the Flutter Music App App, created by *Achmad Rizki Nur Fauzie*,
+No source code, because all of my data is not my property
 
 ## Features
 - Responsive Apps
@@ -11,6 +12,7 @@ A Flutter app based on the design of the Flutter Music App App, created by *Achm
 - Search music
 - Next music, and previous music
 - Check if phone was connected to internet
+- Handle back button
 
 ## Plugin
 - google_fonts: ^2.1.0
@@ -24,3 +26,14 @@ A Flutter app based on the design of the Flutter Music App App, created by *Achm
 
 ## API
 i use my own API
+
+## Preview App
+<img src="https://user-images.githubusercontent.com/75843138/137605682-79803fad-eae2-4de2-b081-a1d3017d16ac.jpg" alt="alt text" width="300" height="600"> <img src="https://user-images.githubusercontent.com/75843138/137605717-e948397e-8cff-4894-9c5e-a7a0ffe26db3.jpg" alt="alt text" width="300" height="600"> <img src="https://user-images.githubusercontent.com/75843138/137605719-4ebf58b1-2ff2-4771-a0aa-c4a8d92517b4.jpg" alt="alt text" width="300" height="600">
+
+<img src="https://user-images.githubusercontent.com/75843138/137605728-2ec493ae-788a-4352-8e0a-88332612886d.jpg" alt="alt text" width="300" height="600"> <img src="https://user-images.githubusercontent.com/75843138/137605732-ba2c56cb-46fb-4af8-b702-ebed71cb66a8.jpg" alt="alt text" width="300" height="600"> <img src="https://user-images.githubusercontent.com/75843138/137605748-7124b37f-e125-4194-a1bf-a70cafcb5eca.jpg" alt="alt text" width="300" height="600">
+
+<img src="https://user-images.githubusercontent.com/75843138/137605751-9c405611-5ad3-4af6-a506-7a69a32771eb.jpg" alt="alt text" width="300" height="600">
+
+
+## Video Preview
+
