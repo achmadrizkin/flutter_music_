@@ -32,7 +32,7 @@ i use my own API
 
 <img src="https://user-images.githubusercontent.com/75843138/137605728-2ec493ae-788a-4352-8e0a-88332612886d.jpg" alt="alt text" width="300" height="600"> <img src="https://user-images.githubusercontent.com/75843138/137605732-ba2c56cb-46fb-4af8-b702-ebed71cb66a8.jpg" alt="alt text" width="300" height="600"> <img src="https://user-images.githubusercontent.com/75843138/137605748-7124b37f-e125-4194-a1bf-a70cafcb5eca.jpg" alt="alt text" width="300" height="600">
 
-<img src="https://user-images.githubusercontent.com/75843138/137605751-9c405611-5ad3-4af6-a506-7a69a32771eb.jpg" alt="alt text" width="300" height="600"> <img src="https://user-images.githubusercontent.com/75843138/137605952-f1744c49-3fa6-4f60-83f6-641cd57c76ee.jpg" alt="alt text" width="300" height="600">
+<img src="https://user-images.githubusercontent.com/75843138/137605751-9c405611-5ad3-4af6-a506-7a69a32771eb.jpg" alt="alt text" width="300" height="600"> <img src="https://user-images.githubusercontent.com/75843138/137606086-4938abc8-313e-4dfe-b91c-aef247e0fff4.jpg" alt="alt text" width="300" height="600">
 
 
 ## Video Preview
